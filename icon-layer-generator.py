@@ -1,7 +1,6 @@
+#!/usr/bin/env python
 from gimpfu import *
 from array import array
-
-#!/usr/bin/env python
 
 def generate_icon_layers(image, layer) :
     ''' Creates copies of the selected layer, scales them to all 14 Windows icon sizes (256 to 16) and adds it to the current image.
