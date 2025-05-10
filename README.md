@@ -6,5 +6,5 @@ Copy "icon-later-generator.py" into your Gimp plug-ins folder, located at "GIMP 
 
 Make sure to restart Gimp after intalling the script.
 
-#Using
+# Using
 You can find the "Generate Icon Layers" option in the "Layer" tab under "Generate".
