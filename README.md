@@ -1,5 +1,5 @@
 # Gimp-Icon-Layer-Generator
-A python script for Gimp for helping in making windows .ico image files.
+A Gimp (GNU Image Manipulation Program) Python script for helping in making .ico image files for Windows applications.
 
 Upon executing the script, it will copy the currently selected layer and scale it to all the following resolutions: 256, 96, 80, 72, 64, 60, 48, 40, 36, 32, 30, 24, 20, 16.
 
@@ -8,7 +8,7 @@ It will then delete the original layer, leaving you with an image containing all
 You can then export the image as a .ico file.
 
 # Installation
-Copy "icon-later-generator.py" into your Gimp plug-ins folder, located at "GIMP 2/lib/gimp/2.0/plug-ins".
+Copy "icon-later-generator.py" into your Gimp plug-ins folder, located at "Program Files/GIMP 2/lib/gimp/2.0/plug-ins".
 
 Make sure to restart Gimp after intalling the script.
 
