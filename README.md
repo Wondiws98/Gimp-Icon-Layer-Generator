@@ -8,7 +8,7 @@ It will then delete the original layer, leaving you with an image containing all
 You can then export the image as a .ico file.
 
 # Installation
-Copy "icon-later-generator.py" into your Gimp plug-ins folder, located at "Program Files/GIMP 2/lib/gimp/2.0/plug-ins".
+Copy "icon-layer-generator.py" into your Gimp plug-ins folder, located at "Program Files/GIMP 2/lib/gimp/2.0/plug-ins".
 
 Make sure to restart Gimp after intalling the script.
 
