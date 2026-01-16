@@ -10,7 +10,7 @@ You can then export the image as a .ico file.
 # Installation
 Copy "icon-layer-generator.py" into your Gimp plug-ins folder, located at "Program Files/GIMP 2/lib/gimp/2.0/plug-ins".
 
-Make sure to restart Gimp after intalling the script.
+Make sure to restart Gimp after installing the script.
 
 # Using
 You can find the "Generate Icon Layers" option in the "Layer" tab under "Generate".
